@@ -4,3 +4,17 @@ Change Log
 0.0.1 (24/07/2021)
 -------------------
 - First Release
+
+0.0.2 (25/07/2021)
+-------------------
+- Update __init__.py
+- Add files:
+    - Data.csv
+    - forest_fire.jpg
+- Add dir:
+    - images_graphs
+
+0.0.3 (29/07/2021)
+-------------------
+- Update __init__.py:
+    fix bags and code     
