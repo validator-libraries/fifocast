@@ -6,7 +6,7 @@ Applied Technologies:
    - API Yandex Погода
    - Telegraph API
    - Yandex Static API
-   - 
+  
 Install library
 >```pip install fifocast```
 
