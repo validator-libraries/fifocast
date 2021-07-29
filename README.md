@@ -1,9 +1,6 @@
 # Fifocast - FireForeCast
 Forest-Fire-Forecasting - Data Science project, predict forest fires
 
-
-Telegram Bot Predict forest fires -> dir "Telegram Bot"
-
 Applied Technologies:
 
    - API Yandex Погода
